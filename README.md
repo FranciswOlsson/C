@@ -2,6 +2,7 @@
 All programs are in .cpp format.
 
 Contents:
+
 Practice problem: first program in C++
 Geometry calculator: calculate area of circle, triangle, rectangle from user input
 Grade calculator: calculate final grade from assignment scores
